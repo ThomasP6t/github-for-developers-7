@@ -3,3 +3,4 @@
 - *Favorite food:* Sushi
 - *Hobby:* Singing
 - *Favorite color:* Green
+- *more stuff:* because I have to
