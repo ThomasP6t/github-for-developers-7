@@ -1,0 +1,5 @@
+- *Name:* Thomas
+- *I'm from:* Belgium
+- *Favorite food:* Sushi
+- *Hobby:* Singing
+- *Favorite color:* Green
